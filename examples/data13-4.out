@@ -1,0 +1,17 @@
+seq 1 index 577 done --->0.36ms
+seq 1 index 578 done --->0.36ms
+seq 1 index 579 done --->0.36ms
+seq 1 index 580 done --->0.36ms
+seq 1 index 581 done --->0.38ms
+seq 1 index 582 done --->0.37ms
+seq 1 index 583 done --->0.38ms
+seq 1 index 584 done --->0.38ms
+seq 1 index 585 done --->0.37ms
+ATTCAGGGGA
+CCTCCGAAGA
+TCATGTTACA
+ACCAAAGATA
+ATCGCGTTGG
+CACAAATGGC
+TCTGGAGGTG
+total time: 0.37ms
